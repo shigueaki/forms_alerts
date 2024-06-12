@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\WinformsAlert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|d:\\dev\\winformsalert\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|d:\\dev\\winformsalert\\frmalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|solutionrelative:frmalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|d:\\dev\\winformsalert\\timerchecknotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|solutionrelative:timerchecknotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|d:\\dev\\winformsalert\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|solutionrelative:global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|d:\\dev\\winformsalert\\frmalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|solutionrelative:frmalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|d:\\dev\\winformsalert\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|d:\\dev\\winformsalert\\formshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|solutionrelative:formshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{50170fd7-46b4-3c72-bca6-b7a2bc08534e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{191acb7e-105f-38b7-a841-3c0f4ea5ede5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c478b6ac-54a8-3bd5-bc46-494f58b422c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{174bbdbc-a66d-385e-ab90-f40c77c8bc99}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimerCheckNotifications.cs",
+              "DocumentMoniker": "D:\\Dev\\WinformsAlert\\TimerCheckNotifications.cs",
+              "RelativeDocumentMoniker": "TimerCheckNotifications.cs",
+              "ToolTip": "D:\\Dev\\WinformsAlert\\TimerCheckNotifications.cs",
+              "RelativeToolTip": "TimerCheckNotifications.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:49:22.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAlert.cs",
+              "DocumentMoniker": "D:\\Dev\\WinformsAlert\\FrmAlert.cs",
+              "RelativeDocumentMoniker": "FrmAlert.cs",
+              "ToolTip": "D:\\Dev\\WinformsAlert\\FrmAlert.cs",
+              "RelativeToolTip": "FrmAlert.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAewGAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:15:11.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.cs",
+              "DocumentMoniker": "D:\\Dev\\WinformsAlert\\Global.cs",
+              "RelativeDocumentMoniker": "Global.cs",
+              "ToolTip": "D:\\Dev\\WinformsAlert\\Global.cs",
+              "RelativeToolTip": "Global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:06:47.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormsHelper.cs",
+              "DocumentMoniker": "D:\\Dev\\WinformsAlert\\FormsHelper.cs",
+              "RelativeDocumentMoniker": "FormsHelper.cs",
+              "ToolTip": "D:\\Dev\\WinformsAlert\\FormsHelper.cs",
+              "RelativeToolTip": "FormsHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:57:22.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAlert.cs [Projeto]",
+              "DocumentMoniker": "D:\\Dev\\WinformsAlert\\FrmAlert.cs",
+              "RelativeDocumentMoniker": "FrmAlert.cs",
+              "ToolTip": "D:\\Dev\\WinformsAlert\\FrmAlert.cs [Projeto]",
+              "RelativeToolTip": "FrmAlert.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:53:21.272Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Dev\\WinformsAlert\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Dev\\WinformsAlert\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:53:06.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "D:\\Dev\\WinformsAlert\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Dev\\WinformsAlert\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:51:09.001Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

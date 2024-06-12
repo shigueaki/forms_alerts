@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPLCEX8XZnA=",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\WinformsAlert\\WinformsAlert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\supor\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

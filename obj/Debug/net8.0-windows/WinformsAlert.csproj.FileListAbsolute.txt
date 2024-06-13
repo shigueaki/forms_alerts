@@ -18,3 +18,4 @@ D:\Dev\WinformsAlert\obj\Debug\net8.0-windows\refint\WinformsAlert.dll
 D:\Dev\WinformsAlert\obj\Debug\net8.0-windows\WinformsAlert.pdb
 D:\Dev\WinformsAlert\obj\Debug\net8.0-windows\WinformsAlert.genruntimeconfig.cache
 D:\Dev\WinformsAlert\obj\Debug\net8.0-windows\ref\WinformsAlert.dll
+D:\Dev\WinformsAlert\obj\Debug\net8.0-windows\WinformsAlert.sourcelink.json

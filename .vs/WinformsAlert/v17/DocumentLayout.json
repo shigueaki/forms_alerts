@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|d:\\dev\\winformsalert\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|d:\\dev\\winformsalert\\frmalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|solutionrelative:frmalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,12 +23,8 @@
       "RelativeMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|solutionrelative:global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|d:\\dev\\winformsalert\\frmalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|D:\\Dev\\WinformsAlert\\frmalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|solutionrelative:frmalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|d:\\dev\\winformsalert\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75E66527-33EC-4E52-ABFD-DAFDD39965A9}|WinformsAlert.csproj|d:\\dev\\winformsalert\\formshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,19 +59,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TimerCheckNotifications.cs",
-              "DocumentMoniker": "D:\\Dev\\WinformsAlert\\TimerCheckNotifications.cs",
-              "RelativeDocumentMoniker": "TimerCheckNotifications.cs",
-              "ToolTip": "D:\\Dev\\WinformsAlert\\TimerCheckNotifications.cs",
-              "RelativeToolTip": "TimerCheckNotifications.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T20:49:22.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "FrmAlert.cs",
               "DocumentMoniker": "D:\\Dev\\WinformsAlert\\FrmAlert.cs",
               "RelativeDocumentMoniker": "FrmAlert.cs",
@@ -84,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Global.cs",
               "DocumentMoniker": "D:\\Dev\\WinformsAlert\\Global.cs",
               "RelativeDocumentMoniker": "Global.cs",
@@ -92,8 +79,7 @@
               "RelativeToolTip": "Global.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T19:06:47.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T19:06:47.085Z"
             },
             {
               "$type": "Document",
@@ -105,20 +91,18 @@
               "RelativeToolTip": "FormsHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T18:57:22.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T18:57:22.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FrmAlert.cs [Projeto]",
               "DocumentMoniker": "D:\\Dev\\WinformsAlert\\FrmAlert.cs",
               "RelativeDocumentMoniker": "FrmAlert.cs",
               "ToolTip": "D:\\Dev\\WinformsAlert\\FrmAlert.cs [Projeto]",
               "RelativeToolTip": "FrmAlert.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T18:53:21.272Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-06-12T18:53:21.272Z"
             },
             {
               "$type": "Document",
@@ -128,14 +112,26 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Dev\\WinformsAlert\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T18:53:06.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "TimerCheckNotifications.cs",
+              "DocumentMoniker": "D:\\Dev\\WinformsAlert\\TimerCheckNotifications.cs",
+              "RelativeDocumentMoniker": "TimerCheckNotifications.cs",
+              "ToolTip": "D:\\Dev\\WinformsAlert\\TimerCheckNotifications.cs",
+              "RelativeToolTip": "TimerCheckNotifications.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:49:22.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "D:\\Dev\\WinformsAlert\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

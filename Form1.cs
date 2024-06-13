@@ -1,7 +1,7 @@
 namespace WinformsAlert
 {
     public partial class Form1 : Form
-    {        
+    {
         public Form1()
         {
             InitializeComponent();
@@ -10,13 +10,22 @@ namespace WinformsAlert
         private void button1_Click(object sender, EventArgs e)
         {
 
-            Global.allNotifications.Add(new Tuple<string, FrmAlert.EnmType>($"Mensagem VERMELHA sendo exibida - {counter++}", FrmAlert.EnmType.Error));
+            Global.allNotifications.Add(new Tuple<string, FrmAlert.EnmType>($"Mensagem VERMELHA - {counter++}", FrmAlert.EnmType.Error));
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < 3; i++)
-                Global.allNotifications.Add(new Tuple<string, FrmAlert.EnmType>($"Mensagem VERDE sendo exibida - {counter++}", FrmAlert.EnmType.Success));            
+            Global.allNotifications.Add(new Tuple<string, FrmAlert.EnmType>($"Mensagem VERDE - {counter++}", FrmAlert.EnmType.Success));
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Global.allNotifications.Add(new Tuple<string, FrmAlert.EnmType>($"Mensagem AZUL - {counter++}", FrmAlert.EnmType.Info));
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Global.allNotifications.Add(new Tuple<string, FrmAlert.EnmType>($"Mensagem LARANJA - {counter++}", FrmAlert.EnmType.Warning));
         }
     }
 }

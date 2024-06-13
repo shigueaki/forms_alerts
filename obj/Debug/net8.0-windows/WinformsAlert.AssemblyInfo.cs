@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinformsAlert")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88c13d86ce931b40590de836deb02e6d255b42ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinformsAlert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinformsAlert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
